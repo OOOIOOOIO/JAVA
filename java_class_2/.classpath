@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Abstract_Interface"/>
+	<classpathentry kind="src" path="Inner_AnonyClass"/>
+	<classpathentry kind="src" path="Try_Catch"/>
+	<classpathentry kind="src" path="Object_Wrapper"/>
+	<classpathentry kind="src" path="Generic"/>
+	<classpathentry kind="src" path="Singleton"/>
+	<classpathentry kind="src" path="CollectionFramework"/>
+	<classpathentry kind="src" path="MVC_Model"/>
+	<classpathentry kind="src" path="Thread"/>
+	<classpathentry kind="src" path="TimeCheck"/>
+	<classpathentry kind="src" path="Swing"/>
+	<classpathentry kind="src" path="Layout"/>
+	<classpathentry kind="src" path="Graphic"/>
+	<classpathentry kind="src" path="Key_MouseMotionListener"/>
+	<classpathentry kind="src" path="File"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
